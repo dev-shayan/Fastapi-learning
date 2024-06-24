@@ -1,6 +1,6 @@
 FROM python:3.12
 
-LABEL maintainer="lahore-class"
+LABEL maintainer="Shayan khan"
 
 WORKDIR /code
 
